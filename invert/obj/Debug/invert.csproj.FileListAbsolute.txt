@@ -1,0 +1,8 @@
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\invert\bin\Debug\invert.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\invert\bin\Debug\invert.exe
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\invert\bin\Debug\invert.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\invert\obj\Debug\invert.exe
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\invert\obj\Debug\invert.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\invert\bin\Debug\invert.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\invert\obj\Debug\invert.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\invert\obj\Debug\invert.pdb

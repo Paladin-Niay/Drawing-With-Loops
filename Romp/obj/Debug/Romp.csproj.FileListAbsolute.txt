@@ -1,0 +1,11 @@
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Romp\bin\Debug\Romp.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Romp\bin\Debug\Romp.exe
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Romp\bin\Debug\Romp.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Romp\obj\Debug\Romp.exe
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Romp\obj\Debug\Romp.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Romp\bin\Debug\Romp.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Romp\obj\Debug\Romp.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Romp\obj\Debug\Romp.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Romp\bin\Debug\Romp.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Romp\bin\Debug\Romp.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Romp\obj\Debug\Romp.csprojResolveAssemblyReference.cache

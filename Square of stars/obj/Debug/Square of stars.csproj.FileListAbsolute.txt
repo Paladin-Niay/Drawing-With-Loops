@@ -1,0 +1,5 @@
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Square of stars\bin\Debug\Square of stars.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Square of stars\bin\Debug\Square of stars.exe
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Square of stars\bin\Debug\Square of stars.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Square of stars\obj\Debug\Square of stars.exe
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Square of stars\obj\Debug\Square of stars.pdb

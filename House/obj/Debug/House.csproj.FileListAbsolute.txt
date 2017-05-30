@@ -1,0 +1,5 @@
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\House\bin\Debug\House.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\House\bin\Debug\House.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\House\bin\Debug\House.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\House\obj\Debug\House.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\House\obj\Debug\House.pdb
