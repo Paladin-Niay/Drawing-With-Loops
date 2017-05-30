@@ -1,0 +1,6 @@
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Triangle of $\bin\Debug\Triangle of $.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Triangle of $\bin\Debug\Triangle of $.exe
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Triangle of $\bin\Debug\Triangle of $.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Triangle of $\obj\Debug\Triangle of $.csprojResolveAssemblyReference.cache
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Triangle of $\obj\Debug\Triangle of $.exe
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Triangle of $\obj\Debug\Triangle of $.pdb

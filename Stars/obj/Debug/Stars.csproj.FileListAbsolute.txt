@@ -1,0 +1,12 @@
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Stars\bin\Debug\Stars.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Stars\bin\Debug\Stars.exe
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Stars\bin\Debug\Stars.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Stars\obj\Debug\Stars.csprojResolveAssemblyReference.cache
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Stars\obj\Debug\Stars.exe
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Stars\obj\Debug\Stars.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Stars\bin\Debug\Stars.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Stars\obj\Debug\Stars.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Stars\obj\Debug\Stars.pdb
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Drawing whit loops\Stars\bin\Debug\Stars.exe.config
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Drawing whit loops\Stars\obj\Debug\Stars.exe
+C:\Users\Korn\Documents\Visual Studio 2015\Projects\Drawing whit loops\Stars\obj\Debug\Stars.pdb
