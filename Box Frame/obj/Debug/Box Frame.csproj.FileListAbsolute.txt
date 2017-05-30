@@ -1,0 +1,9 @@
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Box Frame\bin\Debug\Box Frame.exe.config
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Box Frame\obj\Debug\Box Frame.csprojResolveAssemblyReference.cache
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Box Frame\bin\Debug\Box Frame.exe
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Box Frame\bin\Debug\Box Frame.pdb
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Box Frame\obj\Debug\Box Frame.exe
+c:\users\tania\documents\visual studio 2015\Projects\Drawing whit loops\Box Frame\obj\Debug\Box Frame.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Box Frame\bin\Debug\Box Frame.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Box Frame\obj\Debug\Box Frame.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Box Frame\obj\Debug\Box Frame.pdb

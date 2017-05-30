@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Diamond\bin\Debug\Diamond.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Diamond\bin\Debug\Diamond.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Diamond\obj\Debug\Diamond.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Diamond\obj\Debug\Diamond.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Diamond\obj\Debug\Diamond.pdb

@@ -1,0 +1,6 @@
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Dea;WhitIt\bin\Debug\Dea;WhitIt.exe.config
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Dea;WhitIt\obj\Debug\Dea;WhitIt.csprojResolveAssemblyReference.cache
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Dea;WhitIt\bin\Debug\Dea;WhitIt.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Dea;WhitIt\bin\Debug\Dea;WhitIt.pdb
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Dea;WhitIt\obj\Debug\Dea;WhitIt.exe
+C:\Users\Krasi\Documents\Visual Studio 2015\Projects\Drawing whit loops\Dea;WhitIt\obj\Debug\Dea;WhitIt.pdb
